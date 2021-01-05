@@ -1,0 +1,1 @@
+# LDoc-example
