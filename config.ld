@@ -1,0 +1,2 @@
+style = true
+format = 'markdown'
