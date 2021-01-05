@@ -17,5 +17,12 @@ In order to get the compiled documentation of this example, run the following in
 
 I used the following site as the main hub of information: [LDoc documentation][2]
 
+## Tips and explanations
+I used the Markdown option in the compiler to create multi-line explanations.  
+The compiler gives an error if one of these things is not followed:  
+    - No empty lines in the description of a function.  
+    - No spaces in describing the type in `@tparam`.  
+    - Single quotes `'` instead of double quotes `"`.
+
 [1]: https://github.com/rjpcomputing/luaforwindows/releases
 [2]: https://stevedonovan.github.io/ldoc/manual/doc.md.html
