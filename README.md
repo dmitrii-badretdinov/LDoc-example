@@ -13,7 +13,10 @@ The example contains several files necessary for compilation:
 2. `config.ld`: the configuration file that sets a Markdown interpreter and a custom style sheet.
 3. `ldoc.css`: the custom style sheet. The only difference from the default one is the increased width.
 
-In order to get the compiled documentation of this example, run the following in the command line: `ldoc path\to\ka_dialog.lua`.
+In order to get the compiled documentation of this example, run the following in the command line: 
+```
+ldoc path\to\ka_dialog.lua
+```
 
 I used the following site as the main hub of information: [LDoc documentation][2]
 
