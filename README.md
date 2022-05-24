@@ -1,3 +1,5 @@
+This repository gives an example how to use LDoc - a Lua documentation tool
+
 # LDoc installation
 For Windows, install [Lua for Windows][1], then create `ldoc.bat` and add it to PATH.  
 The contents of `ldoc.bat` should be the following:
